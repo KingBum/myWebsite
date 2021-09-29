@@ -80,6 +80,15 @@ header{
 }
 
 /* Body */
+.home-page-content{
+  background: #111222;
+}
+
+.home-page{
+  max-width: 1150px;
+  margin: 0 auto;
+}
+
 .About-us{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
