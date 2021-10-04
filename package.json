@@ -4,6 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "dependencies": {
+    "lowdb": "^1.0.0",
     "normalize.css": "^8.0.1"
   },
   "devDependencies": {

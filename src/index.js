@@ -28,6 +28,9 @@ app.get('/services', function (req, res) {
 app.get('/projects', function (req, res) {
     res.render('projects')
 })
+app.get('/user', function (req, res) {
+    res.render('user')
+})
 
 
 app.listen(port, () => {
